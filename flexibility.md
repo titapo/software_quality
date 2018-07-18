@@ -75,14 +75,9 @@ question, that choosing this solution at one layer up is the best solution for t
 
 
 Sofware Flexibility has (minimum) three aspects:
- * number of states
- * flexibility of the control flow
- * compile-time vs runtime flexibility
-
-
-[Value/State flexibility](flexibility_value.md)
-[Control flow flexibility](flexibility_control_flow.md)
-[Compile-time vs runtime flexibility /TODO](TODO.md)
+ * [Value/State flexibility](flexibility_value.md)
+ * [Control flow flexibility](flexibility_control_flow.md)
+ * [Compile-time vs runtime flexibility /TODO](TODO.md)
 
 
 
